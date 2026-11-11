@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ImportData">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1595863803 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SO Import Buffer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 3182586253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Batch Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 2692434323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Dimension 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 310556878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Dimension 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 3967827557 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Dimension 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 779344472 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension 5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Dimension 4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 141647855 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension 5</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Dimension 5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 1527563463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>External Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field External Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 804481195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 4035407732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imported Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Imported Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 1435492275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Imported Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Imported Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 3276313895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 870350816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Responsable</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Responsable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 1225278069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Sell-to Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 745542804 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Sheet Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1595863803 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table SO Import Buffer - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2117117246 - Method 2115054505 - NamedType 4273853447" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please Choose the Excel file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Analytic Distribution Import - Method ImportVehicleDistribution - NamedType UploadExcelMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2117117246 - Method 2115054505 - NamedType 511806700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Excel file found!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Analytic Distribution Import - Method ImportVehicleDistribution - NamedType NoFileFoundMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2117117246 - Method 2115054505 - NamedType 3726724574" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel is successfully imported.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Analytic Distribution Import - Method ImportVehicleDistribution - NamedType ExcelImportSucess</note>
+        </trans-unit>
+        <trans-unit id="Page 2975344424 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Amount field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Distribution Test - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2975344424 - Control 1193173812 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Dimension value 1 field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Distribution Test - Control Vehicle - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2975344424 - Control 99400453 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Distributed field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Distribution Test - Control Distributed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2975344424 - Control 1563708480 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Remaining field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Distribution Test - Control Remaining - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2975344424 - Control 245426702 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Amount field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Distribution Test - Control Total - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2975344424 - Action 4221486257 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Executes the Import action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Distribution Test - Action ImportDistribution - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2639436689 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SO Import Worksheet</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SO Import Worksheet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2639436689 - NamedType 2219800383" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch name is blank</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SO Import Worksheet - NamedType BatchISBlankMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2639436689 - NamedType 3726724574" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel is successfully imported.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SO Import Worksheet - NamedType ExcelImportSucess</note>
+        </trans-unit>
+        <trans-unit id="Page 2639436689 - NamedType 511806700" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Excel file found!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SO Import Worksheet - NamedType NoFileFoundMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2639436689 - NamedType 4273853447" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please Choose the Excel file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SO Import Worksheet - NamedType UploadExcelMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 2639436689 - Control 1042671269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Batch Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SO Import Worksheet - Control BatchName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2639436689 - Action 1772648229 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import data from excel.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SO Import Worksheet - Action &amp;Import - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2639436689 - Action 1772648229 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Import</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page SO Import Worksheet - Action &amp;Import - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1164514795 - Action 441825230 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>This action is for distribution purposes.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Ext Sales Order Test - Action Distribution - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1164514795 - Action 441825230 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>Distribution</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Ext Sales Order Test - Action Distribution - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
